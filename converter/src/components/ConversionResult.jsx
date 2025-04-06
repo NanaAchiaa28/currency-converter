@@ -1,5 +1,4 @@
 import React from 'react';
-
 function ConversionResult({ convertedAmount, toCurrency, exchangeRate, lastUpdated }) {
   return (
     <div className="mt-6 p-4 bg-gray-100 rounded-md shadow-md">
